@@ -1,0 +1,15 @@
+1p-16G-test7.outv: FCL Foreground: Response time average: 	450.206112
+1p-16G-testn.outv: FCL Foreground: Response time average: 	1658.386625
+1p-test7.outv: FCL Foreground: Response time average: 	438.833540
+1p-test7-pcmark7.outv: FCL Foreground: Response time average: 	438.833540
+fox-1part-t1test01-opt-16G-IO1-a05.outv: FCL Foreground: Response time average: 	50.012798
+fox-1part-t1test01-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	70.647562
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv: FCL Foreground: Response time average: 	81128.072553
+fox-1part-t1test06-opt-16G-IO1-a05.outv: FCL Foreground: Response time average: 	289.058837
+fox-1part-t1test06-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	1230.295530
+fox-1part-t1test09-opt-16G-IO1-a05.outv: FCL Foreground: Response time average: 	26.273950
+fox-1part-t1test09-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	28.402949
+fox-1part-t1test11-opt-16G-IO1-a05.outv: FCL Foreground: Response time average: 	2.986781
+fox-1part-t1test11-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	3.096337
+fox-1part-t1test13-opt-16G-IO1-a05.outv: FCL Foreground: Response time average: 	558.560308
+fox-1part-t1test13-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	2184.598091

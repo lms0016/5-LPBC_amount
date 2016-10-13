@@ -1,0 +1,15 @@
+1p-16G-test7.outv: LRU Destage Count = 0
+1p-16G-testn.outv: LRU Destage Count = 0
+1p-test7.outv: LRU Destage Count = 0
+1p-test7-pcmark7.outv: LRU Destage Count = 0
+fox-1part-t1test01-opt-16G-IO1-a05.outv: LRU Destage Count = 1819442
+fox-1part-t1test01-opt-4G-IO1-a05.outv: LRU Destage Count = 982731
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv: LRU Destage Count = 0
+fox-1part-t1test06-opt-16G-IO1-a05.outv: LRU Destage Count = 269061
+fox-1part-t1test06-opt-4G-IO1-a05.outv: LRU Destage Count = 199294
+fox-1part-t1test09-opt-16G-IO1-a05.outv: LRU Destage Count = 4382720
+fox-1part-t1test09-opt-4G-IO1-a05.outv: LRU Destage Count = 3853696
+fox-1part-t1test11-opt-16G-IO1-a05.outv: LRU Destage Count = 0
+fox-1part-t1test11-opt-4G-IO1-a05.outv: LRU Destage Count = 0
+fox-1part-t1test13-opt-16G-IO1-a05.outv: LRU Destage Count = 209053
+fox-1part-t1test13-opt-4G-IO1-a05.outv: LRU Destage Count = 159173

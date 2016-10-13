@@ -1,0 +1,15 @@
+1p-16G-test7.outv: LRU Stage Count = 84370
+1p-16G-testn.outv: LRU Stage Count = 336917
+1p-test7.outv: LRU Stage Count = 83058
+1p-test7-pcmark7.outv: LRU Stage Count = 83058
+fox-1part-t1test01-opt-16G-IO1-a05.outv: LRU Stage Count = 42536
+fox-1part-t1test01-opt-4G-IO1-a05.outv: LRU Stage Count = 32233
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv: LRU Stage Count = 1244100
+fox-1part-t1test06-opt-16G-IO1-a05.outv: LRU Stage Count = 18802
+fox-1part-t1test06-opt-4G-IO1-a05.outv: LRU Stage Count = 49846
+fox-1part-t1test09-opt-16G-IO1-a05.outv: LRU Stage Count = 0
+fox-1part-t1test09-opt-4G-IO1-a05.outv: LRU Stage Count = 0
+fox-1part-t1test11-opt-16G-IO1-a05.outv: LRU Stage Count = 809673
+fox-1part-t1test11-opt-4G-IO1-a05.outv: LRU Stage Count = 911803
+fox-1part-t1test13-opt-16G-IO1-a05.outv: LRU Stage Count = 471252
+fox-1part-t1test13-opt-4G-IO1-a05.outv: LRU Stage Count = 203363
